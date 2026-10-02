@@ -1,0 +1,1 @@
+A production ready rag application for different documents with proper ingestion with reasonable chunking method, hybrid search, rrf for combining the semantic and bm25, chunks evaluation, generation with proper evaluation like faithfulness etc.
