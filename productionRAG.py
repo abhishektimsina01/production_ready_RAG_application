@@ -73,4 +73,4 @@ def search_documenta(query : str, filter : dict[str, str] = None):
 
 def generation(chunks : str):
     # metadata and chunks to the llm for generation
-    pass    x
+    pass
